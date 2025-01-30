@@ -1,4 +1,4 @@
-### 📌 **README.md for Your Terraform Portfolio Repository**  
+### 📌 **Terraform Portfolio Repository**  
 ## I'm 3x AWS certified
 
 ```md
