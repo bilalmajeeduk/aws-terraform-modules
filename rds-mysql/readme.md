@@ -10,8 +10,11 @@ Both methods achieve the same result but differ in flexibility and security.
 ---
 
 ### Key notes:
-comment of the file before deploying.
+
+rds-module/tf and rds.tf both deploy same resources, comment one. 
+
 RDS must be in two subnets.
+
 cidr_blocks = "172.31.0.0/16" # this is default vpc cidr block
 
 
